@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', 'Lora','Poppins', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(image/bg.jpg);
+    background-size: cover;
+}
+.top{
+    position: fixed;
+    width: 100%;
+    padding: 20px;
+    top: 0;
+    left: 0;
+    height: auto;
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo h3 a{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    padding-left: 10px;
+    color: white;
+    cursor: pointer;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 99;
+}
+.btnLogin-popup{
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    border: 1px solid white;
+    outline: none;
+    border-radius: 2px;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: .7s;
+}
+
+.btnLogin-popup:hover{
+    background-color: green;
+    color: white;
+}
+/*input,.btn{
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    padding: 3px;
+    font-size: 18px;
+}
+
+.btn{
+    background-color: aqua;
+    color: black;    
+    width: 80px;
+    font-weight: 900;
+    cursor: pointer;
+    transition: .7s;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}*/
+
