@@ -84,9 +84,8 @@ body{
     padding: 40px;    
 }
 .wrapper .form-box.login{
-   /*display: none;*/
-   transition: transform .20s ease;
-   transform: translateX(0);
+    transform: translateX(0);
+    transition: transform .20s ease;
 }
 .wrapper.active .form-box.login{
     transition: none;
@@ -99,7 +98,7 @@ body{
     transform: translateX(400px);
 }
 .wrapper.active .form-box.register{
-    transition: transform .20s ease;
+    
     transform: translateX(0);
 }
 .wrapper .icon-close{
