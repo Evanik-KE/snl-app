@@ -219,7 +219,7 @@ footer{
     z-index: 99;   
 }
 
-.socials a{
+.social a{
     margin-right: 10px;
     font-size: 25px;
     color: white;
@@ -234,7 +234,7 @@ footer{
     outline: none;
     transition: .8s;
 }
-.socials a:hover{
+.social a:hover{
     background-color: green;
     color: black;
 }
