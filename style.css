@@ -238,7 +238,42 @@ footer{
     color: black;
 }
 
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(image/home-bg.jpg);
+    background-size: cover;
+}
+.home-logo h1, .home-logo h1 a{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bolder;
+    color: blue;
+    letter-spacing: 1.2px;
+}
 
+.home-navbar{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+    margin-right: 30px;
+}
+.home-navbar a{
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 20px;
+    transition: .5s ease;
+    transform: scale(1);
+}
+.home-navbar a:hover{
+    text-decoration: underline;
+    color: brown;
+}
 
 
 
