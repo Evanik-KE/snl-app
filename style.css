@@ -5,7 +5,7 @@
     font-family: 'Montserrat', 'Lora','Poppins', sans-serif;
 }
 
-body{
+section{
     display: flex;
     justify-content: center;
     align-items: center;
