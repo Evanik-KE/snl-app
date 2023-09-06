@@ -34,13 +34,13 @@ Student Necessity Life (snl_app) is a program that helps students integrate into
  * Markdown
 
 ## Support and contact details
-{These are the current emails of the contributors:
+These are the current emails of the contributors:
 <ul>
 <li>roy.kimari@student.moringaschool.com</li>
 <li>odhiambo.omondi@student.moringaschool.com</li>
 <li>evans.ngebe@student.moringaschool.com</li>
 <li>alex.wambua@student.moringaschool.com</li>
-</ul>}
+</ul>
 
 ### License
 ```
