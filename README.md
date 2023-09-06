@@ -1,12 +1,9 @@
 # {Student Necessity Life(snl-app)}
-#### {This is an app to help student intergrate into a new school environment easily}, {September 2023}
-#### By **{Roy Kimari}**
-#### By **{Odhiambo Omondi}**
-#### By **{Evans Ngebe}**
-#### By **{Alex Wambua}**
+#### {This is an app to help students integrate into a new school environment easily}, {September 2023}
+#### By **{Evans Ngebe, Odhiambo Omondi, Roy Kimari, Alex Wambua}**
 
 ## Description
-Student Necessity Life (snl_app) is a program that helps students integrate into any new campus life with as much ease as possible. Any student may get directions to any basic necessity that they may require as they go about with their daily school life. I hope it may be a useful tool to all of you. Enjoy!
+Student Necessity Life (snl_app) is a program that helps students integrate into any new campus life with as much ease as possible. Any student may get directions to any basic necessity that they may require as they go about with their daily school life. I hope it may be a useful tool for all of you. Enjoy!
 
 ## Setup/Installation Requirements
 1. On GitHub.com, navigate to the main page of the repository.
@@ -25,10 +22,10 @@ Student Necessity Life (snl_app) is a program that helps students integrate into
     * > Unpacking objects: 100% (10/10), done.
 8. Enjoy!
 
-# The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
+###### The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
 
 ## Known Bugs
-{There are no know issues with this current version as of the moment}
+{There are no known issues with this current version as of the moment}
 
 ## Technologies Used
  * HTML
@@ -37,7 +34,7 @@ Student Necessity Life (snl_app) is a program that helps students integrate into
  * Markdown
 
 ## Support and contact details
-{These are the currnet emails of the contributers:
+{These are the current emails of the contributors:
 <ul>
 <li>roy.kimari@student.moringaschool.com</li>
 <li>odhiambo.omondi@student.moringaschool.com</li>
