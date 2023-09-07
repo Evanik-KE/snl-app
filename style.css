@@ -340,7 +340,10 @@ main{
 }
 
 .src-btn{
-    width: 80px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
     height: 35px;
     border: none;
     outline: none;
