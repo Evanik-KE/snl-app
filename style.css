@@ -40,6 +40,9 @@ section{
     z-index: 99;
 }
 .btnLogin-popup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100px;
     height: 30px;
     font-size: 18px;
@@ -381,10 +384,8 @@ label {
     font-weight: bold;
 }
 
-input[type="text"],
-input[type="email"],
-select,
-textarea {
+
+#email,select,#feedback-details,#name {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
@@ -402,7 +403,7 @@ textarea {
 }
 
 
-p {
+.satisfy p {
     font-size: 14px;
     color: #555;
     margin-top: 5px;
@@ -432,6 +433,7 @@ button:hover {
 
 .feed-help p{
     text-align: center;
+    color: #555;
 }
 
 .feed-help p a{
