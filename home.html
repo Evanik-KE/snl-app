@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Lora&family=Montserrat&family=Poppins" rel="stylesheet">
+    <script src="script.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC11fKPUm0qNxIjZlzyYXTrF1zYIHL2IKA&libraries=places&callback=initMap" async defer></script>
     <title>Home page</title>
 </head>
 <body>
@@ -31,9 +33,10 @@
             <div class="join">
                 <p>Join Us to have a wonderful experience!! Enter the institution here</p>
                 <div class="search">
-                    <input class="srch" type="Search" name="" placeholder="Enter the institution name">
-                    <a href="#"><button class="src-btn">Search</button></a>
+                    <input class="srch" type="text" id="institutionName" placeholder="Enter the institution name">
+                    <button id="searchButton" class="src-btn">Search</button>
                 </div>
+                <div id="map" style="height: 400px; width: 100%;"></div>
             </div>
         </div>
     </main>
