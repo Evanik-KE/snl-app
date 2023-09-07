@@ -493,3 +493,68 @@ about{
 .get-involved a:hover{
     color:  rgba(255, 2, 2, 0.696) ;
 }
+
+.contact-logo h1 a{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bolder;
+    color: blue;
+    letter-spacing: 1.2px;
+}
+.contact-navbar a{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 20px;
+    transition: .5s ease;
+    transform: scale(1);
+}
+
+.contact-navbar a:hover{
+    text-decoration: underline;
+    color: green;
+}
+contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(image/contact-bg.jpg);
+    background-size: cover;
+}
+.container{
+    width: 600px;
+    height: 400px;
+    border: 2px solid white;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    backdrop-filter: blur(20px);
+    box-shadow: 2px 4px 20px rgba(255, 255, 255, 0.645);
+    transition: .9s;
+}
+
+.contact-content{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+}
+.contact-content p{
+    color: white;
+    text-align: center;
+}
+.contact-emails, .direct-phone{
+    padding: 40px 20px;
+}
+.contact-emails h4, .direct-phone h4{
+    font-size: 20px;
+}
+.contact-emails p{
+    padding: 5px 0;
+}
+.direct-phone p{
+    color: white;
+}
+
+
