@@ -246,7 +246,7 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 150vh;
+    min-height: 200vh;
     background: url(image/home-bg.jpg);
     background-size: cover;
 }
@@ -332,6 +332,7 @@ main{
 }
 
 .search input{
+    margin-bottom: 10px;
     margin-top: 10px;
     width: 300px;
     height: 35px;
@@ -340,6 +341,9 @@ main{
     border-radius: 5px;
     font-size: 18px;
     padding-left: 10px;
+}
+#map{
+    border-radius: 5px;
 }
 
 .src-btn{
