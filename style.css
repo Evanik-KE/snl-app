@@ -247,7 +247,7 @@ main{
     background: url(image/home-bg.jpg);
     background-size: cover;
 }
-.home-logo h1, .home-logo h1 a{
+.home-logo h1, .home-logo h1 a, .feedback-logo h1 a{
     text-decoration: none;
     font-size: 40px;
     font-weight: bolder;
@@ -355,5 +355,90 @@ main{
     color: white;
 }
 
+feedback{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 150vh;
+    background: url(image/feedback-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+feed{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+select {
+    height: 40px;
+}
+
+textarea {
+    height: 100px;
+}
+
+
+p {
+    font-size: 14px;
+    color: #555;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+.feed-help{
+    padding-top: 20px;
+    display: inline;
+    align-items: center;
+    justify-content: center;
+}
+
+.feed-help p{
+    text-align: center;
+}
+
+.feed-help p a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: blue;
+    transition: .5s ease;
+}
+.feed-help p a:hover{
+    color: brown;
+}
 
 
