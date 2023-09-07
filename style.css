@@ -250,7 +250,7 @@ main{
     background: url(image/home-bg.jpg);
     background-size: cover;
 }
-.home-logo h1, .home-logo h1 a, .feedback-logo h1 a{
+.home-logo h1, .home-logo h1 a, .feedback-logo h1 a, .about-logo h1 a{
     text-decoration: none;
     font-size: 40px;
     font-weight: bolder;
@@ -267,6 +267,7 @@ main{
     margin-right: 30px;
 }
 .home-navbar a{
+    color: black;
     font-size: 18px;
     font-weight: 600;
     text-decoration: none;
@@ -279,7 +280,7 @@ main{
     color: brown;
 }
 
-.content{
+.content, .circle{
     position: absolute;
     margin: 30px 0;
     padding: 20px 20px;
@@ -450,4 +451,45 @@ button:hover {
     color: brown;
 }
 
+about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(image/about-bg.jpg);
+    background-size: cover;
+}
 
+.circle{
+    display: flex;
+    top: 70px;
+    width: 550px;
+    height: 450px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.about-content{
+    max-width: 450px;
+    position: absolute;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30;
+}
+
+.about-par h1,p{
+    text-align: center;
+    line-height: 1.4em;
+}
+#about{
+    color: rgba(9, 204, 204, 0.967);
+    font-family: cursive;
+}
+.get-involved a{
+    text-decoration: none;
+    font-weight: 900;
+    transition: .5s ease;
+}
+.get-involved a:hover{
+    color:  rgba(255, 2, 2, 0.696) ;
+}
