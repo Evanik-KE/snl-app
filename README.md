@@ -20,9 +20,9 @@ Login Page
 These are the pages;
 | Home | Service | Contact |
 | ---------------------------------| --------------------------------------- | -------------------------------------- |
-| ![Home](Screenshots/home.PNG)| ![Service](Screenshots/service.PNG) | ![Contact](Screenshots/contact.png)|
+| ![Home](Screenshots/home.PNG)| ![Service](Screenshots/service.PNG) | ![Contact](Screenshots/contact.PNG)|
 | About | Help | Feedback |
-| ![About](Screenshots/about-pg.png)| ![Help](Screenshots/help.png) | ![Feedback](Screenshots/feedback.png)|
+| ![About](Screenshots/about-pg.PNG)| ![Help](Screenshots/help.PNG) | ![Feedback](Screenshots/feedback.PNG)|
 
 =======
 
