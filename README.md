@@ -1,5 +1,6 @@
-# {Student Necessity Life(snl-app)}
-#### {This is an app to help students integrate into a new school environment easily}, {September 2023}
+# Student Necessity Life(snl-app)
+#### This is an app to help students integrate into a new school environment easily, 
+###### September 2023
 #### By **{Roy Kimari}**
 #### By **{Odhiambo Omondi}**
 #### By **{Evans Ngebe}**
@@ -24,7 +25,7 @@ These are the pages;
 | About | Help | Feedback |
 | ![About](Screenshots/about-pg.PNG)| ![Help](Screenshots/help.JPG) | ![Feedback](Screenshots/feedback.PNG)|
 
-=======
+
 
 ## Setup/Installation Requirements
 1. On GitHub.com, navigate to the main page of the repository.
@@ -33,9 +34,9 @@ These are the pages;
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory.
 6. Type ```git clone```, then paste the copied URL of the repository.
-```git clone https://github.com/USERNAME/REPOSITORYNAME```
+```git clone https://github.com/Evanik-KE/snl-app.git```
 7. Press Enter to create your local clone.
-    * $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY  
+    * $ git clone https://github.com/Evanik-KE/snl-app.git  
     * > Cloning into `chosen-directory`...  
     * > remote: Counting objects: 10, done.  
     * > remote: Compressing objects: 100% (8/8), done.  
@@ -45,12 +46,11 @@ These are the pages;
 
 
 ##### The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
-=======
-###### The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
+
 
 
 ## Known Bugs
-{There are no known issues with this current version as of the moment}
+There are no known issues with this current version as of the moment.
 
 ## Technologies Used
  * HTML
@@ -59,9 +59,6 @@ These are the pages;
  * Markdown
 
 ## Support and contact details
-
-{These are the current emails of the contributors:
-=======
 These are the current emails of the contributors:
 
 <ul>
@@ -70,8 +67,6 @@ These are the current emails of the contributors:
 <li>evans.ngebe@student.moringaschool.com</li>
 <li>alex.wambua@student.moringaschool.com</li>
 
-</ul>}
-=======
 </ul>
 
 
