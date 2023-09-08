@@ -12,17 +12,17 @@ Student Necessity Life (snl_app) is a program that helps students integrate into
 
 
 The first page a user encounters is a login page where when one logs in is redirected to the home page.
-| Login Page |
-| ----------------------------------------------------------------------- |
-| ![Login Page](Screenshots/Login Page.png)|
+
+Login Page
+
+![Login Page](Screenshots/login.PNG)
 
 These are the pages;
 | Home | Service | Contact |
 | ---------------------------------| --------------------------------------- | -------------------------------------- |
-| ![Home](Screenshots/Home Page.png)| ![Service](Screenshots/Service Page.png) | ![Contact](Screenshots/Contact Page.png)|
+| ![Home](Screenshots/home.PNG)| ![Service](Screenshots/service.PNG) | ![Contact](Screenshots/contact.png)|
 | About | Help | Feedback |
-| -----------------------------------| --------------------------------- | ---------------------------------------- |
-| ![About](Screenshots/About Page.png)| ![Help](Screenshots/Help Page.png) | ![Feedback](Screenshots/Feedback Page.png)|
+| ![About](Screenshots/about-pg.png)| ![Help](Screenshots/help.png) | ![Feedback](Screenshots/feedback.png)|
 
 =======
 
