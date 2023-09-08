@@ -1,25 +1,25 @@
 # {Student Necessity Life(snl-app)}
-#### {This is an app to help student intergrate into a new school environment easily}, {September 2023}
+#### {This is an app to help students integrate into a new school environment easily}, {September 2023}
 #### By **{Roy Kimari}**
 #### By **{Odhiambo Omondi}**
 #### By **{Evans Ngebe}**
 #### By **{Alex Wambua}**
 
 ## Description
-Student Necessity Life (snl_app) is a program that helps students integrate into any new campus life with as much ease as possible. Any student may get directions to any basic necessity that they may require as they go about with their daily school life. I hope it may be a useful tool to all of you. Enjoy!
+Student Necessity Life (snl_app) is a program that helps students integrate into any new campus life with as much ease as possible. Any student may get directions to any basic necessity that they may require as they go about with their daily school life. I hope it may be a useful tool for all of you. Enjoy!
 
-The first page a user is encountered with is a login page where when one logs in is redirected to the home page.
+The first page a user encounters is a login page where when one logs in is redirected to the home page.
 | Login Page |
 | ----------------------------------------------------------------------- |
-|![Login Page](Screenshots/Login Page.png)|
+| ![Login Page](Screenshots/Login Page.png)|
 
 These are the pages;
 | Home | Service | Contact |
 | ---------------------------------| --------------------------------------- | -------------------------------------- |
-|![Home](Screenshots/Home Page.png)|![Service](Screenshots/Service Page.png) |![Contact](Screenshots/Contact Page.png)|
+| ![Home](Screenshots/Home Page.png)| ![Service](Screenshots/Service Page.png) | ![Contact](Screenshots/Contact Page.png)|
 | About | Help | Feedback |
 | -----------------------------------| --------------------------------- | ---------------------------------------- |
-|![About](Screenshots/About Page.png)|![Help](Screenshots/Help Page.png) |![Feedback](Screenshots/Feedback Page.png)|
+| ![About](Screenshots/About Page.png)| ![Help](Screenshots/Help Page.png) | ![Feedback](Screenshots/Feedback Page.png)|
 
 ## Setup/Installation Requirements
 1. On GitHub.com, navigate to the main page of the repository.
@@ -41,7 +41,7 @@ These are the pages;
 ##### The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
 
 ## Known Bugs
-{There are no know issues with this current version as of the moment}
+{There are no known issues with this current version as of the moment}
 
 ## Technologies Used
  * HTML
@@ -50,7 +50,7 @@ These are the pages;
  * Markdown
 
 ## Support and contact details
-{These are the currnet emails of the contributers:
+{These are the current emails of the contributors:
 <ul>
 <li>roy.kimari@student.moringaschool.com</li>
 <li>odhiambo.omondi@student.moringaschool.com</li>
