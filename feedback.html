@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lora&family=Montserrat&family=Poppins" rel="stylesheet">
+    <title>Feedback</title>
+</head>
+<body>
+    <feedback>
+        <div class="top">
+            <div class="feedback-logo">
+                <h1><a href="#">SNL</a></h1>
+            </div>
+            <div class="home-navbar">
+                <a href="home.html">Home</a>
+                <a href="service.html">Service</a>
+                <a href="contact.html">Contact</a>
+                <a href="about.html">About</a>
+                <a href="help.html">Help</a>
+                <a href="feedback.html">Feedback</a>               
+            </div>
+        </div>
+        <feed>
+            <form id="feedback-form">
+                <label for="name">Your Name (Optional):</label>
+                <input type="text" id="name" name="name" placeholder="Group Five">
+    
+                <label for="email">Your Email (Optional):</label>
+                <input type="email" id="email" name="email" placeholder="groupfive@example.com">
+
+                <label for="feedback-type">Feedback Type:</label>
+                <select id="feedback-type" name="feedback-type">
+                    <option value="general">General Feedback</option>
+                    <option value="bug">Bug Report</option>
+                    <option value="feature-request">Feature Request</option>
+                    <option value="complaint">Complaint</option>
+                    <option value="compliment">Compliment</option>
+                    <option value="other">Other</option>
+                </select>
+                <label for="feedback-details">Feedback Details:</label>
+                <textarea id="feedback-details" name="feedback-details" rows="6" placeholder="Please provide your feedback here..." required></textarea>
+    
+                <label for="attachment">Attach File (Optional):</label>
+                <input type="file" id="attachment" name="attachment">
+                <div class="satisfy">    
+                    <p>How satisfied are you with our service?</p>
+                    <input type="radio" id="very-satisfied" name="satisfaction" value="very-satisfied">
+                    <label for="very-satisfied">Very Satisfied</label>
+                
+                    <input type="radio" id="satisfied" name="satisfaction" value="satisfied">
+                    <label for="satisfied">Satisfied</label>
+
+                    <input type="radio" id="neutral" name="satisfaction" value="neutral">
+                    <label for="neutral">Neutral</label>
+        
+                    <input type="radio" id="unsatisfied" name="satisfaction" value="unsatisfied">
+                    <label for="unsatisfied">Unsatisfied</label>
+        
+                    <input type="radio" id="very-unsatisfied" name="satisfaction" value="very-unsatisfied">
+                    <label for="very-unsatisfied">Very Unsatisfied</label>
+                 </div>
+                <button type="button" id="submit-button">Submit Feedback</button>
+                <div class="feed-help">
+                    <p>We respect your privacy. Your feedback will be used for improvement purposes only.</p>
+                    <p>If you need further assistance, please <a href="contact.html">contact us</a>.</p>
+                </div>
+            </form>
+        </feed>
+    </feedback>
+</body>
+</html>

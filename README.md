@@ -1,9 +1,30 @@
 # {Student Necessity Life(snl-app)}
 #### {This is an app to help students integrate into a new school environment easily}, {September 2023}
+#### By **{Roy Kimari}**
+#### By **{Odhiambo Omondi}**
+#### By **{Evans Ngebe}**
+#### By **{Alex Wambua}**
 #### By **{Evans Ngebe, Odhiambo Omondi, Roy Kimari, Alex Wambua}**
+
 
 ## Description
 Student Necessity Life (snl_app) is a program that helps students integrate into any new campus life with as much ease as possible. Any student may get directions to any basic necessity that they may require as they go about with their daily school life. I hope it may be a useful tool for all of you. Enjoy!
+
+
+The first page a user encounters is a login page where when one logs in is redirected to the home page.
+
+Login Page
+
+![Login Page](Screenshots/login.PNG)
+
+These are the pages;
+| Home | Service | Contact |
+| ---------------------------------| --------------------------------------- | -------------------------------------- |
+| ![Home](Screenshots/home.PNG)| ![Service](Screenshots/service.PNG) | ![Contact](Screenshots/contact.PNG)|
+| About | Help | Feedback |
+| ![About](Screenshots/about-pg.PNG)| ![Help](Screenshots/help.PNG) | ![Feedback](Screenshots/feedback.PNG)|
+
+=======
 
 ## Setup/Installation Requirements
 1. On GitHub.com, navigate to the main page of the repository.
@@ -22,7 +43,11 @@ Student Necessity Life (snl_app) is a program that helps students integrate into
     * > Unpacking objects: 100% (10/10), done.
 8. Enjoy!
 
+
+##### The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
+=======
 ###### The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
+
 
 ## Known Bugs
 {There are no known issues with this current version as of the moment}
@@ -34,13 +59,21 @@ Student Necessity Life (snl_app) is a program that helps students integrate into
  * Markdown
 
 ## Support and contact details
+
+{These are the current emails of the contributors:
+=======
 These are the current emails of the contributors:
+
 <ul>
 <li>roy.kimari@student.moringaschool.com</li>
 <li>odhiambo.omondi@student.moringaschool.com</li>
 <li>evans.ngebe@student.moringaschool.com</li>
 <li>alex.wambua@student.moringaschool.com</li>
+
+</ul>}
+=======
 </ul>
+
 
 ### License
 ```
