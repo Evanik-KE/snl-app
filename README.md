@@ -22,7 +22,7 @@ These are the pages;
 | ---------------------------------| --------------------------------------- | -------------------------------------- |
 | ![Home](Screenshots/home.PNG)| ![Service](Screenshots/service.PNG) | ![Contact](Screenshots/contact.PNG)|
 | About | Help | Feedback |
-| ![About](Screenshots/about-pg.PNG)| ![Help](Screenshots/help.PNG) | ![Feedback](Screenshots/feedback.PNG)|
+| ![About](Screenshots/about-pg.PNG)| ![Help](Screenshots/help.JPG) | ![Feedback](Screenshots/feedback.PNG)|
 
 =======
 
