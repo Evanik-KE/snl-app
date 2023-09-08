@@ -4,9 +4,12 @@
 #### By **{Odhiambo Omondi}**
 #### By **{Evans Ngebe}**
 #### By **{Alex Wambua}**
+#### By **{Evans Ngebe, Odhiambo Omondi, Roy Kimari, Alex Wambua}**
+
 
 ## Description
 Student Necessity Life (snl_app) is a program that helps students integrate into any new campus life with as much ease as possible. Any student may get directions to any basic necessity that they may require as they go about with their daily school life. I hope it may be a useful tool for all of you. Enjoy!
+
 
 The first page a user encounters is a login page where when one logs in is redirected to the home page.
 | Login Page |
@@ -20,6 +23,8 @@ These are the pages;
 | About | Help | Feedback |
 | -----------------------------------| --------------------------------- | ---------------------------------------- |
 | ![About](Screenshots/About Page.png)| ![Help](Screenshots/Help Page.png) | ![Feedback](Screenshots/Feedback Page.png)|
+
+=======
 
 ## Setup/Installation Requirements
 1. On GitHub.com, navigate to the main page of the repository.
@@ -38,7 +43,11 @@ These are the pages;
     * > Unpacking objects: 100% (10/10), done.
 8. Enjoy!
 
+
 ##### The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
+=======
+###### The repository link is: ```https://github.com/Evanik-KE/snl-app.git```
+
 
 ## Known Bugs
 {There are no known issues with this current version as of the moment}
@@ -50,13 +59,21 @@ These are the pages;
  * Markdown
 
 ## Support and contact details
+
 {These are the current emails of the contributors:
+=======
+These are the current emails of the contributors:
+
 <ul>
 <li>roy.kimari@student.moringaschool.com</li>
 <li>odhiambo.omondi@student.moringaschool.com</li>
 <li>evans.ngebe@student.moringaschool.com</li>
 <li>alex.wambua@student.moringaschool.com</li>
+
 </ul>}
+=======
+</ul>
+
 
 ### License
 ```

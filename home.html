@@ -3,9 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lora&family=Montserrat&family=Poppins" rel="stylesheet">
+    <script src="script.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC11fKPUm0qNxIjZlzyYXTrF1zYIHL2IKA&libraries=places&callback=initMap" async defer></script>
     <title>Home page</title>
 </head>
 <body>
-    <p>karibuuuuu</p>
+    <main>
+        <div class="top">
+            <div class="home-logo">
+                <h1><a href="#">SNL</a></h1>
+            </div>
+            <div class="home-navbar">
+                <a href="home.html">Home</a>
+                <a href="service.html">Service</a>
+                <a href="contact.html">Contact</a>
+                <a href="about.html">About</a>
+                <a href="help.html">Help</a>
+                <a href="feedback.html">Feedback</a>               
+            </div>
+        </div>
+        <div class="content">
+            <div class="header">
+                <h2>Hey there! Welcome to  <span id="student">Student Necessity Life website</span></h2>
+                <h3>Look foward to enjoy!</h3>
+                <p>Welcome, dear students, to the Necessity Life website! We're thrilled to have you here on this exciting journey of discovery and learning. Our virtual doors are wide open, and we invite you to explore a world of essential knowledge and practical wisdom that will empower you in every facet of your life. Whether you're seeking valuable insights into finance, health, relationships, or simply looking for some life hacks to make your daily routines easier, you've come to the right place. So, grab a virtual seat, fasten your seatbelt, and let's embark on this enriching adventure together! Let's dive in and uncover the secrets to a more fulfilling and well-rounded life.</p>
+            </div>
+            <div class="join">
+                <p>Join Us to have a wonderful experience!! Enter the institution here</p>
+                <div class="search">
+                    <input class="srch" type="text" id="institutionName" placeholder="Enter the institution name">
+                    <button id="searchButton" class="src-btn">Search</button>
+                </div>
+                <div id="map" style="height: 400px; width: 100%;"></div>
+            </div>
+        </div>
+    </main>
 </body>
 </html>
